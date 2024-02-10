@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stroimanova" alt="stroimanova" /></a> </p>
 
-- 🔭 I’m currently working on **github**
+- 🔭 I’m currently working on **github.**
 
-- 🌱 I’m currently learning **military academy**
+- 🌱 I’m currently learning **military academy.**
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I’m looking to collaborate on **projects.**
 
 - 📫 How to reach me **simonastroimanova@hotmail.com**
 
